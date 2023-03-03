@@ -16,7 +16,7 @@
     "@types/node": "^12.0.7",
     "@types/prettier": "^1.16.4",
     "commander": "^2.20.0",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.6",
     "prettier": "^1.18.2"
   }
 }
